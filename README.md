@@ -2,7 +2,8 @@
 
 I show you how to make security system using barcode and raspberry pi. First off all make the database using sqlite3.then insert the barcode into database which you use in door open. if you scan barcode other then in database the door is close. I make the GUI for this project for easy interface. 
  
- there are three files in folder-:
+there are three files in folder-:
+
 1- barcode_lock.py
     this file has code for the project, code is combination of GUI(graphical user interface)
     
